@@ -18,6 +18,6 @@ Verification:
 - DoneMeans receipt: `receipts/t_59aeb8b9c2b1.json`
 - receipt verification: `uv run --project /home/vboxuser/projects/donemeans donemeans --root . receipt verify receipts/t_59aeb8b9c2b1.json` -> ok
 - verified code commit: `f01fb6faad175f50809ba16ca96fc3db3c0e1d29`
-- final documentation/evidence HEAD: `a0c127a777fa06d43fe29ad27ce68e60d0a06151`
+- final documentation/evidence HEAD: `996f1687b207c86aef96581470ca217a21c78841`
 
 No credentials or private repositories were accessed or committed.
