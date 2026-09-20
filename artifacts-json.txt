@@ -1,0 +1,30 @@
+{
+  "expression": "0 0 1 1 *",
+  "fields": [
+    {
+      "name": "minute",
+      "value": "0",
+      "meaning": "at 00"
+    },
+    {
+      "name": "hour",
+      "value": "0",
+      "meaning": "at 00"
+    },
+    {
+      "name": "day of month",
+      "value": "1",
+      "meaning": "on day 01"
+    },
+    {
+      "name": "month",
+      "value": "1",
+      "meaning": "on January"
+    },
+    {
+      "name": "day of week",
+      "value": "*",
+      "meaning": "every value"
+    }
+  ]
+}
