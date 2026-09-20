@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "ticket_id": "t_59aeb8b9c2b1",
+  "code_sha": "f01fb6faad175f50809ba16ca96fc3db3c0e1d29",
+  "command": "uv run pytest -q",
+  "exit_code": 0,
+  "artifact": {
+    "path": "artifacts/pytest.txt",
+    "sha256": "a00d95dfbc084b6eb22229f4a5b545b4452162a59797c0faa121535a79212580",
+    "bytes": 98
+  },
+  "recorded_at": "2026-09-20T23:16:00+00:00"
+}
